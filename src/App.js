@@ -6,7 +6,7 @@ import
   from 'react-router-dom';
 import './App.css';
 import Categories from './components/Categories';
-import Book from './components/Book';
+import Book from './components/BookList';
 
 function App() {
   return (
